@@ -1,0 +1,6 @@
+print(15<20) false
+print(15>20) true
+print(15==20) false
+print(15<=20) false
+print(15>=20) true
+print(15!=20) false
